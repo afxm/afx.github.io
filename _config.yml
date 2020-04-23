@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Edan's student portfoliio!
 This is a demo of all styled elements in Jekyll Now.
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/Screen Shot 2020-04-22 at 2.54.20 AM.png "an image title")
